@@ -1,0 +1,25 @@
+{
+  "project": "Bridge Traffic AI Streamlit OneShot",
+  "source_files": {
+    "Traffic_Survey_Combined.xlsx": {
+      "bytes": 18418,
+      "sha256": "3cc8c879f79ed6ec14df8a2832219e5320e1f884693bb984fb0a70d2fc6114a8"
+    },
+    "Traffic_Arabic_PowerBI_Enhanced.zip": {
+      "bytes": 866862,
+      "sha256": "f1630dd4a11e4bfc8ac5814966e62592960d45e6e4767f149208960af7744c5d"
+    },
+    "Traffic_Data_Assessment_Report.pdf": {
+      "bytes": 672736,
+      "sha256": "03892f15fca67e56c15b1c81f9238384a135599211e918c707c7a4a28ed3b8d2"
+    },
+    "Traffic_Data_Profiling.xlsx": {
+      "bytes": 136892,
+      "sha256": "eef7d7e58663baff8c94beee9e94971c6a88870967b52620f3d286602a1ed1cf"
+    },
+    "Traffic_Client_Story_AR.pdf": {
+      "bytes": 246452,
+      "sha256": "fca37104886c6aa287db49972eaa6f9e8596bfcaa5f0d35828dafbcd2f834e4a"
+    }
+  }
+}

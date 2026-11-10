@@ -1,0 +1,25 @@
+[global]
+developmentMode = false
+showWarningOnDirectExecution = false
+
+[browser]
+gatherUsageStats = false
+serverAddress = "127.0.0.1"
+
+[server]
+headless = true
+address = "127.0.0.1"
+enableCORS = false
+enableXsrfProtection = false
+fileWatcherType = "none"
+
+[client]
+showErrorDetails = true
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
